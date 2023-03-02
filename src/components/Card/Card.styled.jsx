@@ -8,10 +8,7 @@ export const CardStyled = styled.li`
     position: relative;
 
     width: 380px;
-    height: 440px;
-    margin-top: 40px;
-    margin-left: auto;
-    margin-right: auto;
+    height: 440px;    
     padding-top: 20px;
 
     text-align: center;
